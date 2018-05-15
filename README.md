@@ -1,5 +1,5 @@
 ## Morpheme-aware Neural Language Model
-Code for the MorphSum model from the paper "Reusing Weights in Subword-aware Neural Language Models" (submitted to NAACL 2018)
+Code for the MorphSum model from the paper ["Reusing Weights in Subword-aware Neural Language Models"](https://arxiv.org/pdf/1802.08375.pdf) (NAACL HLT 2018)
 
 ### Requirements
 Code is written in Python 3 and requires TensorFlow 1.4+. It also requires the following Python modules: `numpy`, `morfessor`, `argparse`. You can install them via:
